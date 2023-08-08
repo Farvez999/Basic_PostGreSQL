@@ -56,3 +56,9 @@
 
 -- Table show
 -- SELECT * FROM users2;
+
+-- Alter Table 
+-- Add a colum , drop a colum, change a datatype of a column
+-- rename a colum , set DEFULT value for a colum 
+-- add CONSTRAINT to a colum, drop CONSTRAINT for a colum
+-- table rename
